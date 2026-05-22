@@ -41,21 +41,20 @@ Engineering intelligent systems for security, surveillance & multilingual AI.
 
 ## 📌 Featured Projects
 
-### 🛡️ VajraAI
+### 🛡️ [VajraAI](https://github.com/harshita103006/VajraAI)
 AI-powered cybersecurity threat intelligence platform with phishing detection, malicious URL analysis and prompt injection prevention.
 
-🚀 Deploy Link: Coming Soon
 
 ---
 
-### 🎙️ VoxGuard-AI
+### 🎙️ [VoxGuard-AI](https://github.com/harshita103006/VoxGuard-AI)
+
 Deepfake voice detection system using PyTorch and Librosa-based audio classification pipelines.
 
-🚀 Deploy Link: Coming Soon
 
 ---
 
-### 🚗 DriveSafe-AI
+### 🚗 [DriveSafe-AI](https://github.com/harshita103006/DriveSafe-AI)
 Real-time driver monitoring system using MediaPipe Face Mesh and fatigue detection pipelines.
 
 🔗 Live Demo:
@@ -66,15 +65,13 @@ https://drive-safe-ai-delta.vercel.app
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshita103006&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshita103006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita103006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=harshita103006&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita103006&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
