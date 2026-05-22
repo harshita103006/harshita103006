@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Harshita Joshi</h1>
 
 <h3 align="center">
