@@ -2,16 +2,11 @@
   <img src="banner.png" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Harshita Joshi</h1>
 
-<h3 align="center">
-Engineering intelligent systems for security, surveillance & multilingual AI.
-</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Security+%7C+OSINT+%7C+Backend+Engineering;Building+Cybersecurity+%26+Voice+Intelligence+Systems;Computer+Vision+%7C+Deepfake+Detection+%7C+Surveillance+AI" />
 </p>
-
 ---
 
 ## 🚀 About Me
