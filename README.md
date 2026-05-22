@@ -89,3 +89,11 @@ https://drive-safe-ai-delta.vercel.app
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshita103006/harshita103006/output/github-contribution-grid-snake-dark.svg" />
+</p>
