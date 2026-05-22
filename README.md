@@ -1,16 +1,88 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harshita Joshi</h1>
 
-<!--
-**harshita103006/harshita103006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Engineering intelligent systems for security, surveillance & multilingual AI.
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Security+%7C+OSINT+%7C+Backend+Engineering;Building+Cybersecurity+%26+Voice+Intelligence+Systems;Computer+Vision+%7C+Deepfake+Detection+%7C+Surveillance+AI" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Student at Banasthali Vidyapith
+- 🛰️ Building AI-powered systems focused on cybersecurity & voice intelligence
+- 🌾 Smart India Hackathon Finalist
+- 🔍 Exploring backend engineering, computer vision & AI security
+- ⚡ Interested in intelligent surveillance and multilingual AI infrastructure
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,sql" />
+</p>
+
+### Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+</p>
+
+### AI / ML / Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,git,github,vscode" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🛡️ VajraAI
+AI-powered cybersecurity threat intelligence platform with phishing detection, malicious URL analysis and prompt injection prevention.
+
+🚀 Deploy Link: Coming Soon
+
+---
+
+### 🎙️ VoxGuard-AI
+Deepfake voice detection system using PyTorch and Librosa-based audio classification pipelines.
+
+🚀 Deploy Link: Coming Soon
+
+---
+
+### 🚗 DriveSafe-AI
+Real-time driver monitoring system using MediaPipe Face Mesh and fatigue detection pipelines.
+
+🔗 Live Demo:
+https://drive-safe-ai-delta.vercel.app
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshita103006&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshita103006&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita103006&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/harshita-joshi-89bb75324">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
