@@ -65,13 +65,13 @@ https://drive-safe-ai-delta.vercel.app
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshita103006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshita103006&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita103006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita103006&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshita103006&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshita103006&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
