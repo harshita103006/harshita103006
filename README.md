@@ -42,14 +42,20 @@
 ## 📌 Featured Projects
 
 ### 🛡️ [VajraAI](https://github.com/harshita103006/VajraAI)
+
 AI-powered cybersecurity threat intelligence platform with phishing detection, malicious URL analysis and prompt injection prevention.
 
+🔗 Live Demo:  
+https://vajra-ai-ten.vercel.app/
 
 ---
 
 ### 🎙️ [VoxGuard-AI](https://github.com/harshita103006/VoxGuard-AI)
 
-Deepfake voice detection system using PyTorch and Librosa-based audio classification pipelines.
+Deepfake voice detection system using audio classification pipelines and AI-powered voice authenticity analysis.
+
+🔗 Live Demo:  
+https://vox-guard-ai.vercel.app/
 
 
 ---
