@@ -46,7 +46,7 @@
 AI-powered cybersecurity threat intelligence platform with phishing detection, malicious URL analysis and prompt injection prevention.
 
 🔗 Live Demo:  
-https://vajra-ai-ten.vercel.app/
+https://vajra-ai-ten.vercel.app
 
 ---
 
@@ -55,7 +55,7 @@ https://vajra-ai-ten.vercel.app/
 Deepfake voice detection system using audio classification pipelines and AI-powered voice authenticity analysis.
 
 🔗 Live Demo:  
-https://vox-guard-ai.vercel.app/
+https://vox-guard-ai.vercel.app
 
 
 ---
