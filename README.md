@@ -2,21 +2,27 @@
   <img src="banner.png" />
 </p>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Agentic+AI+Engineer;Building+Full-Stack+AI+Applications;Multi-Agent+Systems+%7C+Cybersecurity;Surveillance+AI+%7C+Intelligent+Systems" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Security+%7C+OSINT+%7C+Backend+Engineering;Building+Cybersecurity+%26+Voice+Intelligence+Systems;Computer+Vision+%7C+Deepfake+Detection+%7C+Surveillance+AI" />
+  <img src="https://img.shields.io/badge/Focus-Agentic_AI-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-LangGraph-purple?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science Student at Banasthali Vidyapith
-- 🛰️ DRDO Summer Intern working on AI-powered aerial surveillance systems
-- 🤖 Building Agentic AI, Cybersecurity Intelligence and Voice Analysis Platforms
-- 🔍 Exploring Multi-Agent Systems, Computer Vision and AI Security
-- ⚡ Passionate about intelligent automation and real-world AI applications
+* 🎓 B.Tech Computer Science Student at Banasthali Vidyapith
+* 🛰️ DRDO Summer Intern working on AI-powered aerial surveillance systems
+* 🤖 Building Agentic AI, Cybersecurity Intelligence and Intelligent Software Systems
+* ⚡ Designed and developed complete frontend and backend architectures for multiple AI applications
+* 🔍 Exploring Multi-Agent Systems, Computer Vision, AI Security and Autonomous Workflows
+* 🚀 Passionate about transforming research ideas into production-ready AI products
 
 ---
 
@@ -40,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
 </p>
 
-### AI / ML
+### AI & Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
@@ -57,42 +63,68 @@
 ## 📌 Featured Projects
 
 ### 🚀 NAVIX
-Agentic AI Research & Web Intelligence Platform powered by LangGraph and multi-agent orchestration.
 
-🔗 Live Demo:
+**Multi-Agent AI Research & Web Intelligence Platform**
+
+Built using LangGraph, FastAPI and React to enable autonomous research, intelligent task planning, web intelligence and knowledge synthesis.
+
+✨ Designed and developed complete frontend and backend architecture.
+
+#### Highlights
+
+* Multi-Agent Orchestration
+* Real-Time Web Intelligence
+* Autonomous Research Workflows
+* Knowledge Synthesis
+* Context-Aware AI Interactions
+
+🔗 **Live Demo**
 https://navix-blue.vercel.app
 
-🔗 Repository:
+🔗 **Repository**
 https://github.com/harshita103006/NAVIX
 
 ---
 
 ### 🛡️ VajraAI
-AI-powered cybersecurity threat intelligence platform with phishing detection, malicious URL analysis and prompt injection prevention.
 
-🔗 Live Demo:
+**AI-Powered Cybersecurity Intelligence Platform**
+
+Cybersecurity threat intelligence system capable of phishing detection, malicious URL analysis, prompt injection prevention and AI-powered threat monitoring.
+
+🔗 **Live Demo**
 https://vajra-ai-ten.vercel.app
+
+🔗 **Repository**
+https://github.com/harshita103006/VajraAI
 
 ---
 
 ### 🎙️ VoxGuard-AI
-Deepfake voice detection system using audio intelligence and AI-powered voice authenticity analysis.
 
-🔗 Live Demo:
+**Deepfake Voice Detection & Audio Intelligence Platform**
+
+Audio intelligence system designed to identify synthetic voices and deepfake audio using machine learning and signal-processing techniques.
+
+🔗 **Live Demo**
 https://vox-guard-ai.vercel.app
+
+🔗 **Repository**
+https://github.com/harshita103006/VoxGuard-AI
 
 ---
 
 ## 🎯 Current Focus
 
-- 🚀 Building NAVIX: Agentic AI Research Platform
-- 🛰️ Developing AI-powered Aerial Surveillance Systems at DRDO
-- 🛡️ Advancing Cybersecurity Intelligence with VajraAI
-- 🎙️ Researching Deepfake Voice Detection & Audio Intelligence
+* 🚀 Building NAVIX: Multi-Agent AI Research Platform
+* 🛰️ Developing AI-powered Aerial Surveillance Systems at DRDO
+* 🛡️ Advancing Cybersecurity Intelligence with VajraAI
+* 🎙️ Researching Deepfake Voice Detection & Audio Intelligence
+* 🤖 Exploring Autonomous Agents and Intelligent Workflow Systems
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshita103006&theme=tokyonight" />
@@ -100,21 +132,28 @@ https://vox-guard-ai.vercel.app
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshita103006&theme=tokyonight" />
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshita103006&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshita103006&theme=tokyonight" />
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshita103006&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
 
+## 🚧 Currently Building
+
+* 🚀 NAVIX Agentic AI Ecosystem
+* 🛰️ AI-Powered Aerial Surveillance Platform
+* 🛡️ Advanced Cybersecurity Intelligence Systems
+* 🤖 Autonomous AI Agent Workflows
+
+---
+
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/harshita-joshi-89bb75324">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -126,4 +165,10 @@ https://vox-guard-ai.vercel.app
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/harshita103006/harshita103006/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  <b>🚀 Building Intelligent Systems, One Project at a Time</b>
 </p>
