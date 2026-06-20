@@ -12,59 +12,83 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Student at Banasthali Vidyapith
-- 🛰️ Building AI-powered systems focused on cybersecurity & voice intelligence
-- 🌾 Smart India Hackathon Finalist
-- 🔍 Exploring backend engineering, computer vision & AI security
-- ⚡ Interested in intelligent surveillance and multilingual AI infrastructure
+- 🎓 B.Tech Computer Science Student at Banasthali Vidyapith
+- 🛰️ DRDO Summer Intern working on AI-powered aerial surveillance systems
+- 🤖 Building Agentic AI, Cybersecurity Intelligence and Voice Analysis Platforms
+- 🔍 Exploring Multi-Agent Systems, Computer Vision and AI Security
+- ⚡ Passionate about intelligent automation and real-world AI applications
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,sql" />
 </p>
 
-### Backend & Frameworks
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
+</p>
+
+### Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
 </p>
 
-### AI / ML / Tools
+### AI / ML
+
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+</p>
+
+### Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛡️ [VajraAI](https://github.com/harshita103006/VajraAI)
+### 🚀 NAVIX
+Agentic AI Research & Web Intelligence Platform powered by LangGraph and multi-agent orchestration.
 
+🔗 Live Demo:
+https://navix-blue.vercel.app
+
+🔗 Repository:
+https://github.com/harshita103006/NAVIX
+
+---
+
+### 🛡️ VajraAI
 AI-powered cybersecurity threat intelligence platform with phishing detection, malicious URL analysis and prompt injection prevention.
 
-🔗 Live Demo:  
+🔗 Live Demo:
 https://vajra-ai-ten.vercel.app
 
 ---
 
-### 🎙️ [VoxGuard-AI](https://github.com/harshita103006/VoxGuard-AI)
+### 🎙️ VoxGuard-AI
+Deepfake voice detection system using audio intelligence and AI-powered voice authenticity analysis.
 
-Deepfake voice detection system using audio classification pipelines and AI-powered voice authenticity analysis.
-
-🔗 Live Demo:  
+🔗 Live Demo:
 https://vox-guard-ai.vercel.app
-
 
 ---
 
-### 🚗 [DriveSafe-AI](https://github.com/harshita103006/DriveSafe-AI)
-Real-time driver monitoring system using MediaPipe Face Mesh and fatigue detection pipelines.
+## 🎯 Current Focus
 
-🔗 Live Demo:
-https://drive-safe-ai-delta.vercel.app
+- 🚀 Building NAVIX: Agentic AI Research Platform
+- 🛰️ Developing AI-powered Aerial Surveillance Systems at DRDO
+- 🛡️ Advancing Cybersecurity Intelligence with VajraAI
+- 🎙️ Researching Deepfake Voice Detection & Audio Intelligence
 
 ---
 
