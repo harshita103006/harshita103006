@@ -114,14 +114,34 @@ https://github.com/harshita103006/VoxGuard-AI
 
 ---
 
+### 🔐 SAMVID
+
+**Consent-Driven Secure Data Sharing & Access Management Platform**
+
+A secure data-sharing platform designed to give data owners greater control over their digital records through consent-driven access management, role-based authorization and transparent permission workflows.
+
+#### Highlights
+
+* 🔐 Secure Authentication & JWT Authorization
+* 👥 Role-Based Access Control
+* 📂 Digital Record Management
+* 🤝 Organization Access Requests
+* ✅ Consent-Based Data Access
+* ⛓️ Blockchain-Linked Consent Management
+* 📊 Audit & Access Tracking
+* 🛡️ Secure API Architecture
+
+🔗 **Repository**
+https://github.com/harshita103006/Samvid
+
 ## 🎯 Current Focus
 
 * 🚀 Building NAVIX: Multi-Agent AI Research Platform
 * 🛰️ Developing AI-powered Aerial Surveillance Systems at DRDO
 * 🛡️ Advancing Cybersecurity Intelligence with VajraAI
 * 🎙️ Researching Deepfake Voice Detection & Audio Intelligence
+* 🔐 Exploring Secure Data Sharing, Consent Management & Blockchain Systems
 * 🤖 Exploring Autonomous Agents and Intelligent Workflow Systems
-
 ---
 
 ## 📊 GitHub Analytics
@@ -145,8 +165,10 @@ https://github.com/harshita103006/VoxGuard-AI
 ## 🚧 Currently Building
 
 * 🚀 NAVIX Agentic AI Ecosystem
-* 🛰️ AI-Powered Aerial Surveillance Platform
-* 🛡️ Advanced Cybersecurity Intelligence Systems
+* 🛰️ AI-Powered Aerial Surveillance Systems
+* 🛡️ Cybersecurity Intelligence & Threat Detection Systems
+* 🎙️ Deepfake Voice Detection & Audio Intelligence
+* 🔐 Secure Data Sharing & Consent Management Systems
 * 🤖 Autonomous AI Agent Workflows
 
 ---
