@@ -28,43 +28,37 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,sql" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
 </p>
 
-### AI & Machine Learning
+### 🧠 AI Engineering
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
 </p>
 
-### AI Engineering
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=AI+Engineering+%7C+Intelligent+Systems;Agentic+AI+%7C+Multi-Agent+Systems;Cybersecurity+%7C+Threat+Intelligence;Blockchain+%7C+Secure+Data+Systems;Computer+Vision+%7C+Surveillance+AI" />
-</p>
-
-### Blockchain & Security
+### ⛓️ Blockchain & Security
 
 <p>
   <img src="https://skillicons.dev/icons?i=solidity" />
 </p>
 
-### Tools & DevOps
+### 🧰 Tools & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
