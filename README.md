@@ -3,14 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Agentic+AI+Engineer;Building+Full-Stack+AI+Applications;Multi-Agent+Systems+%7C+Cybersecurity;Surveillance+AI+%7C+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Intelligent+Systems;Agentic+AI+%7C+Cybersecurity+%7C+Backend;Multi-Agent+Systems+%7C+Computer+Vision;Secure+Data+%7C+Blockchain+%7C+AI+Security" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Agentic_AI-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI_Engineering-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-LangGraph-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-AI_Security-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend-FastAPI-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-LangGraph-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Intelligent_Systems-Computer_Vision-blue?style=for-the-badge" />
 </p>
 
 ---
@@ -20,10 +21,9 @@
 * 🎓 B.Tech Computer Science Student at Banasthali Vidyapith
 * 🛰️ DRDO Summer Intern working on AI-powered aerial surveillance systems
 * 🤖 Building Agentic AI, Cybersecurity Intelligence and Intelligent Software Systems
-* ⚡ Designed and developed complete frontend and backend architectures for multiple AI applications
-* 🔍 Exploring Multi-Agent Systems, Computer Vision, AI Security and Autonomous Workflows
-* 🚀 Passionate about transforming research ideas into production-ready AI products
-
+* ⚡ Designing full-stack AI applications across frontend, backend and AI infrastructure
+* 🔐 Exploring AI Security, secure data systems, blockchain and privacy-aware architectures
+* 🚀 Passionate about transforming research ideas into scalable, real-world technology
 ---
 
 ## 🛠️ Tech Stack
@@ -31,7 +31,7 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,sql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql" />
 </p>
 
 ### Frontend
@@ -50,6 +50,18 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+</p>
+
+### AI Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=langchain" />
+</p>
+
+### Blockchain & Security
+
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity" />
 </p>
 
 ### Tools & DevOps
