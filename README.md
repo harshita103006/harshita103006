@@ -54,8 +54,8 @@
 
 ### AI Engineering
 
-<p>
-  <img src="https://skillicons.dev/icons?i=langchain" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=AI+Engineer+%7C+Intelligent+Systems;Agentic+AI+%7C+Multi-Agent+Systems;Cybersecurity+%7C+Threat+Intelligence;Blockchain+%7C+Secure+Data+Systems;Computer+Vision+%7C+Surveillance+AI" />
 </p>
 
 ### Blockchain & Security
